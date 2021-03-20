@@ -2,7 +2,7 @@
 
 This project was bootstrapped with react.
 
-! [Page Image] (https://github.com/Folzzz/react-todoapp/blob/master/src/img/file.png)
+![Page Image] (https://raw.githubusercontent.com/Folzzz/react-todoapp/master/src/img/file.png)
 
 ## Description
 
